@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "woffapex";
+    src: url("Font-APEX-Small.woff") format('woff');
+}
+
+.mydiv {
+    font-family: myfont;
+}
