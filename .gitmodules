@@ -1,0 +1,3 @@
+[submodule "test/font-apex"]
+	path = test/font-apex
+	url = https://github.com/oracle/font-apex
